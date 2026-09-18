@@ -85,5 +85,5 @@ Role        : Information Technology Student
 Focus       : Programming & Cybersecurity
 Exploring   : Digital Forensics / DFIR
 Currently   : 🔭 Building things | 🌱 Learning cybersecurity | 💻 Breaking code to understand it
-☕ Powered by coffee
+Powered     : ☕ Coffee
 Mindset     : Learn → Build → Break → Fix
