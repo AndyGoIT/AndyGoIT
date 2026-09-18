@@ -84,6 +84,6 @@ Name        : Andy
 Role        : Information Technology Student
 Focus       : Programming & Cybersecurity
 Exploring   : Digital Forensics / DFIR
-Currently   : Learning & Building
-Fuel        : Coffee ☕
+Currently   : 🔭 Building things | 🌱 Learning cybersecurity | 💻 Breaking code to understand it
+☕ Powered by coffee
 Mindset     : Learn → Build → Break → Fix
